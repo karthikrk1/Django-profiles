@@ -3,11 +3,11 @@
 REST API for managing user Profiles
 
 ## Requirements
-Vagrant >= 1.9.8
-VirtualBox 
-Git
-Atom (or any other editor)
-Mod Headers (Google Chrome plugin)
+Vagrant >= 1.9.8 |
+VirtualBox |
+Git |
+Atom (or any other editor) |
+Mod Headers (Google Chrome plugin) |
 Python >= 3.4
 
 ## Installation
