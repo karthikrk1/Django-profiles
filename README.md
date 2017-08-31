@@ -1,13 +1,13 @@
 # Profiles REST API
 
-REST API for managing user Profiles
+REST API for managing User Profiles
 
 ## Requirements
 Vagrant >= 1.9.8 |
 VirtualBox |
 Git |
 Atom (or any other editor) |
-Mod Headers (Google Chrome plugin) |
+ModHeaders (Google Chrome plugin) |
 Python >= 3.4
 
 ## Installation
@@ -23,6 +23,6 @@ The Wiki page has been created to follow a step by step approach for the install
 
 ## Vagrant
 
-Vagrant is a core part of this development and the vagrant will be a Ubuntu Xenaial server installed in VirtualBox and have Python 3 Installed.
+Vagrant is a core part of this development and the server will be a Ubuntu Xenial server installed in VirtualBox and have Python 3 Installed.
 
  
